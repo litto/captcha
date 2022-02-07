@@ -4,7 +4,7 @@ Simple Captcha for PHP website
 ## How to Install?
 You can Install it via composer by typing:-
 
-composer require litto/captcha:v1.0
+composer require litto/captcha:v2.0
 
 ## How it works?
 
